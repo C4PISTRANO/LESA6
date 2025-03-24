@@ -24,3 +24,8 @@ Escolher servidor de nuvem
 --------------------------------------------------------------------
 Comparação:
 AWS, Google Cloud, Azure
+
+-----------------------------------------------------------------
+Usar calculadora para estimar o custo
+
+*Apresentar decisões, links, justificativa...
