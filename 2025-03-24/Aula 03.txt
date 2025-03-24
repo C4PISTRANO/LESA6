@@ -36,6 +36,6 @@ Usar calculadora para estimar o custo
 *Cold storage -> Maneira mais barata dearmazenar dados não muito utilizados
 Deve permanecer por 5 anos (LGPD)
 
-*Primeiros 5 anos só vai crscer
+*Primeiros 5 anos só vai crescer
 ------------------------------------------------------------------
 
