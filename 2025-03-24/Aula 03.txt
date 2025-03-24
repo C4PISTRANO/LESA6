@@ -7,3 +7,10 @@ Analisar o hardware para identificar gargalos
 
 Escalabilidade diagonal (escalonamento híbrido) -> Vertical + horizontal
 
+Resiliência -> Alta disponibilidade
+
+---------------------------------------------------------------------
+
+Elasticidade
+
+Comum em e-commerce
