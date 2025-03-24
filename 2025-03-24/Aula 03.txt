@@ -1,0 +1,4 @@
+Escalabilidade
+
+Vertical -> expansão de hardware
+Horizontal -> adição de novas máquinas 
