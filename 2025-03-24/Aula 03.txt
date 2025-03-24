@@ -2,3 +2,8 @@ Escalabilidade
 
 Vertical -> expansão de hardware
 Horizontal -> adição de novas máquinas 
+
+Analisar o hardware para identificar gargalos
+
+Escalabilidade diagonal (escalonamento híbrido) -> Vertical + horizontal
+
