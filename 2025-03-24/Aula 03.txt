@@ -20,3 +20,7 @@ Comum em e-commerce
 Estudo de caso:
 Escolher servidor de nuvem
 (ex.: EC2)
+
+--------------------------------------------------------------------
+Comparação:
+AWS, Google Cloud, Azure
