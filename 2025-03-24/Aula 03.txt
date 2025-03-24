@@ -29,3 +29,7 @@ AWS, Google Cloud, Azure
 Usar calculadora para estimar o custo
 
 *Apresentar decisões, links, justificativa...
+
+-----------------------------------------------------------------
+*Cold storage -> Maneira mais barata dearmazenar dados não muito utilizados
+
