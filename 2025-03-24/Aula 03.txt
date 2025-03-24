@@ -14,3 +14,9 @@ Resiliência -> Alta disponibilidade
 Elasticidade
 
 Comum em e-commerce
+
+--------------------------------------------------------------------
+
+Estudo de caso:
+Escolher servidor de nuvem
+(ex.: EC2)
