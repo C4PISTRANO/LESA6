@@ -16,6 +16,8 @@ Elasticidade
 Comum em e-commerce
 
 --------------------------------------------------------------------
+--------------------------------------------------------------------
+Trabalho a ser entregue nesse semestre (individual)
 
 Estudo de caso:
 Escolher servidor de nuvem
@@ -32,4 +34,8 @@ Usar calculadora para estimar o custo
 
 -----------------------------------------------------------------
 *Cold storage -> Maneira mais barata dearmazenar dados não muito utilizados
+Deve permanecer por 5 anos (LGPD)
+
+*Primeiros 5 anos só vai crscer
+------------------------------------------------------------------
 
