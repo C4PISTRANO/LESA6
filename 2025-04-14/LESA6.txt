@@ -40,3 +40,12 @@ Backup e Recuperação
 
 CVEs: cve.org
 Vunerabilidades comuns conhecidas.
+
+Sistema de cache de sessão:
+dados usados mais frequente
+CDN-> Rede de distribuição de conteúdo
+Cache distribuido no nosso trabalho
+
+
+
+
