@@ -16,3 +16,5 @@ Afinidade de Sessão:
 Um cara específico sempre irá para um servidor específico ou recurso durante a sessão.
 
 Replicação de Sessão:
+
+Redundância X dsiponibilidade:
