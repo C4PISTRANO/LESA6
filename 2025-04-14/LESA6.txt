@@ -48,4 +48,6 @@ Cache distribuido no nosso trabalho
 
 
 
+Invalidação de cache -> Atualizar o sistema que está em cache.
 
+Balanceamento de carga e Gerencoiamento...
