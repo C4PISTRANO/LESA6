@@ -1,0 +1,18 @@
+Balanceamento de cargas:
+distribuir o tráfego de rede ou a cargade trabalho. guardar algumas coisas no dsipositivo do usuário.
+
+Gerenciamento e Sessão em apps:
+Não é só login, carrinhos de compras, configurações de modo claro ou escuro...
+
+
+Algoritmos comuns:
+Round Robin
+Least Connections
+IP Hash
+
+Podemos definir qual região o usuário receberá as requisições
+
+Afinidade de Sessão:
+Um cara específico sempre irá para um servidor específico ou recurso durante a sessão.
+
+Replicação de Sessão:
