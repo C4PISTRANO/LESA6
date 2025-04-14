@@ -18,3 +18,25 @@ Um cara específico sempre irá para um servidor específico ou recurso durante 
 Replicação de Sessão:
 
 Redundância X dsiponibilidade:
+
+
+Replicação de dados:
+Consistencia de dados
+Facilidade de gerenciamento
+Segurança aprimorada - superfície de ataque
+Escalabilidade Simplificada
+Suporte Recursos avançados - Ferramentas de Análise de Dados
+
+Escola de bancos de dados:
+MySQL, Oracle, Redis, Google Cloud Spanner...
+Cada caso é um caso. Quakquer um desses serve para o nosso trabalho, desde que seja justificado.
+
+
+Segurança dos dados:
+Criptografia
+Politica de acesso
+Auditoria
+Backup e Recuperação
+
+CVEs: cve.org
+Vunerabilidades comuns conhecidas.
