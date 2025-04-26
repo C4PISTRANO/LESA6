@@ -1,0 +1,45 @@
+LESA6 Trabalho:
+
+PostgreSQL -> Qualquer banco 
+
+API Restful -> Lambda??
+
+Pesquisar nas calculadoras de preços.
+Google 
+Azure
+AWS
+
+
+
+Ver a quantidade de acessos/solicitações
+Sugerir melhorias
+
+
+Calculadoras:
+De preço Google Cloud
+
+
+
+Como definir CPUs e RAM:
+Pela quantidade de acessos, vide tabela no Miro.
+
+Escolher 3 calculadoras.
+Tabela no Drive.
+
+
+-------------------------------------------------
+Monolítico: unidade única que engloba tudo. Escalabilidade Vertical. Simplicidade de único código.
+Transação atômica: começo, meio e fim em uma única transação.
+Falhas afetam todo o sistema.
+
+Microserviços: 
+Pequenos serviços trabalhando em conjunto.
+Independência
+Descentralizado
+Escalabilidade Horizontal.
+
+-------------------------------------------------
+
+
+
+
