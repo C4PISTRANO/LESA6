@@ -1,0 +1,15 @@
+Tecnologias 
+-> postresql -> 620Gb
+-> Python API -> Django
+-> Consulta a API externa em node (parceiros, não temos controle, apenas consultamos)
+	-> Considere essa API como RESTful
+-> Cold Storage (6Tb) 
+	-> Dados entram aqui quando completam 3 meses
+	-> Dados permanecem em Cold Storage 5 anos
+-> Formato dos dados
+	-> PDF, TXT, imagens
+	-> taxa de crescimento 9Gb mês
+-> Vídeos serão armazenados no YT ou outro serviço de streaming;
+
+-> Precisa atender apenas as Americas
+
