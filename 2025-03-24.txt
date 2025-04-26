@@ -1,0 +1,55 @@
+Escalabilidade
+
+Vertical -> expansão de hardware
+Horizontal -> adição de novas máquinas 
+
+Analisar o hardware para identificar gargalos
+
+Escalabilidade diagonal (escalonamento híbrido) -> Vertical + horizontal
+
+Resiliência -> Alta disponibilidade
+
+---------------------------------------------------------------------
+
+Elasticidade
+
+Comum em e-commerce
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Trabalho a ser entregue nesse semestre (individual)
+
+Estudo de caso:
+Escolher servidor de nuvem
+(ex.: EC2)
+
+--------------------------------------------------------------------
+Comparação:
+AWS, Google Cloud, Azure
+
+-----------------------------------------------------------------
+Usar calculadora para estimar o custo
+
+*Apresentar decisões, links, justificativa...
+*colocar prints
+
+-----------------------------------------------------------------
+*Cold storage -> Maneira mais barata dearmazenar dados não muito utilizados
+Deve permanecer por 5 anos (LGPD)
+
+*Primeiros 5 anos só vai crescer
+------------------------------------------------------------------
+
+Serão 3 entregas. Conversas nas aulas
+
+
+Estrutura do trabalho:
+introdução
+comparação de provedores
+(custo, escalabilidade, etc.)
+Dimensionamento de recursos
+solução do banco
+picos de tráfego
+alternativas
+estrategia de migração
+conclusão
