@@ -1,0 +1,30 @@
+Projeto nota final.
+
+Arquitetura de software
+
+Escalabilidade de sistemas vertical e horizontal
+
+Semana que vem:
+Escalabilidade de sistemas.
+
+------------------------------------------------------
+Livro Engenharia de Software - Ian Somerville
+
+------------------------------------------------------
+Avaliação:
+
+Trabalho teórico 30%
+Trabalho Prático 40%
+Atividades Avaliativas 30%
+
+*** Diversas entregas ao longo do semestre.
+
+
+Trabalho:
+
+Empresa:
+* Pesquisa e seleção de provedor
+* Dimensionamento de recursos
+
+Entregas a cada 3 semanas.
+
