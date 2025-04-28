@@ -1,1 +1,8 @@
-2025-04-28
+Estudos de Caso:
+
+TechCo -> app móvel
+HelthTech -> Soluções em Saúde
+**RBAC = 
+
+Usar esses estudos de caso como exemplo pro nosso trabalho:
+"Discursar no formato mercadológico"
