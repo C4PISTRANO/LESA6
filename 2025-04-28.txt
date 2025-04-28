@@ -4,5 +4,14 @@ TechCo -> app móvel
 HelthTech -> Soluções em Saúde
 **RBAC = 
 
+Trabalho:
 Usar esses estudos de caso como exemplo pro nosso trabalho:
-"Discursar no formato mercadológico"
+Não precisa ser em termos técnicos. "Discursar no formato mercadológico"
+
+Pensar na expertise da equipe de desenvolvimento
+
+Pesquisar as ferramentas para mitigar as vunerabilidades do sistema
+
+Monitoramneto contínuo
+
+
