@@ -14,5 +14,12 @@ Pesquisar as ferramentas para mitigar as vunerabilidades do sistema
 
 Monitoramneto contínuo
 
-
 ***Pesquisar história do e-mai lque não viajava mais que 800km***
+
+
+Blockchain -> Completamente rastreável
+
+***podemos sugerir ferramentas para serem utilizados no projeto
+
+Kubernetes -> Ferramneta de Contêiners
+
