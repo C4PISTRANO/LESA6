@@ -2,3 +2,12 @@ Considerações para o trabalho:
 
 ******Ver trabalho da LESA6_AnaCalixto_Final-1.pdf
 
+Estrutura do trabalho: 
+introdução 
+comparação de provedores (custo, escalabilidade, etc.) 
+Dimensionamento de recursos 
+solução do banco 
+picos de tráfego 
+alternativas 
+estratégia de migração 
+conclusão
